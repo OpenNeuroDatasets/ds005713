@@ -1,4 +1,5 @@
-This dataset includes raw neuroimaging data from the neuroimaging of primary trigeminal neuralgia study, collected at Federal Neurosurgical Center, Novosibirsk, Russia. Data were collected between 2022 and 2024. Participants were adults with diagnosed primary trigeminal neuralgia (according to The International Classification of Headache Disorders criteria). 
+This dataset includes raw neuroimaging data from the neuroimaging of primary trigeminal neuralgia study, collected at Federal Neurosurgical Center, Novosibirsk, Russia. 
+Data were collected between 2022 and 2024. Participants were adults with diagnosed primary trigeminal neuralgia (according to The International Classification of Headache Disorders criteria). 
 
 This dataset includes high-resolution 3D_T1w_TFE, 3D_T2w, DTI with 64 diffusion direction, and resting state bold-fMRI data.  Anatomical scans were defaced using pydeface software. 
 
