@@ -1,0 +1,13 @@
+{
+    "BIDSVersion": "1.8.0",
+    "Name": "A large-scale dataset of pre- and post-surgical MRI data in patients with chronic trigeminal neuralgia",
+    "Authors": [
+        "Elena Filimonova",
+        "Anton Pashkov",
+        "Azniv Martirosyan",
+        "Galina Moisak",
+        "Jamil Rzaev"
+    ],
+    "DatasetDOI": "NA",
+    "License": "CC0"
+}
