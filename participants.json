@@ -1,0 +1,98 @@
+{
+    "participant_id": {
+        "Description": "Unique Participant's ID",
+        "LongName": "Participant's ID"
+    },
+    "group": {
+        "Description": "Healthy controls or patients with trigeminal neuralgia",
+        "LongName": "Experimental group"
+    },
+    "age": {
+        "Description": "Age of participant",
+        "LongName": "age",
+             "Units": "years"
+    },
+    "sex": {
+        "Description": "Sex of the participant as reported by the participant",
+        "LongName": "Participant's sex",
+       "Levels": {
+            "1": "male",
+            "0": "female"
+        }
+    },
+    "Clinical_finding": {
+        "Description": "Neurological or other general somatic symptoms/diseases"
+    },
+    "MRI_finding": {
+        "Description": "Notable features of MRI images of the participants"
+    },
+    "Sindou_grade": {
+        "Description": "Grades of neurovascular conflict according to M.Sindou classification system",
+       "Levels": {
+            "0": "no detectable neurovascular conflict",
+            "1": "slight contact of the nerve with the offending vessel",
+            "2": "distortion or displacement of the nerve",
+            "3": "marked indentation of the nerve"
+        }
+    },
+    "Previous_surgery": {
+        "Description": "This variable indicates whether the patient earlier underwent any surgery for trigeminal neuralgia",
+        "Levels": {
+            "NA": "Not applicable",
+            "yes": "There was at least one surgery done for the treatment of patient's facial pain",
+            "no": "No surgeries were done before current hospital admission"
+        }
+    },
+    "Pain_side": {
+      "Description": "Side of the facial pain in patients",
+        "Levels": {
+            "NA": "Not applicable",
+            "R": "Right-sided pain pain",
+            "L": "Left-sided pain",
+            "B": "Bilateral pain"
+        }
+    },
+    "Pain_type": {
+      "Description": "Type of the facial pain in patients",
+        "Levels": {
+            "NA": "Not applicable",
+            "Paroxysmal": "Paroxysmal pain",
+            "Persistent": "Persistent pain"
+          }
+    },
+    "Disease_duration": {
+        "Description": "Duration of the trigeminal neuralgia history in patients",
+             "Units": "years"
+    },
+    "Pharm_treatment": {
+      "Description": "Drugs taken by patients and daily dose (mg)",
+        "Levels": {
+            "NA": "Not applicable or no information",
+            "CBZ": "Carbamazepine",
+            "GBP": "Gabapentine",
+            "PGB": "Pregabaline",
+            "AMT": "Amitriptyline ",
+            "LMTG": "Lamotrigine",
+            "OXCBZ": "Oxcarbazepine ",
+            "DLX": "Duloxetine"
+          }
+    },
+    "Surgery_type": {
+      "Description": "Type of the surgery that patient underwent for trigeminal neuralgia treatment",
+        "Levels": {
+            "NA": "Not applicable",
+            "MVD": "Microvascular decompression",
+            "PI": "Percutaneous interventions (rhizotomy or balloon compression)",
+            "Outpatient": "Patients who did not undergo surgical treatment"
+         }
+    },
+    "Follow-up": {
+      "Description": "Variable that specify if the given participant has follow-up data collected 6 months after surgical treatment",
+        "Levels": {
+            "NA": "Not applicable",
+            "yes": "Patient has the follow-up data",
+            "no": "No follow-up data"
+         }
+    }
+}
+                  
