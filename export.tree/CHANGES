@@ -1,0 +1,7 @@
+1.0.1 2024-12-12
+  - - README file was changed
+  - - participant.tsv and participant.json files were added
+  - - mriqc_data folder was added
+  - - .bidsignore file was added
+1.0.0 2024-12-12
+  - no changes
