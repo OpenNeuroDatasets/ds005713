@@ -3,7 +3,7 @@ Data were collected between 2022 and 2025. Participants were adults with diagnos
 
 This dataset includes high-resolution 3D_T1w_TFE, 3D_T2w, DTI with 64 diffusion directions, and resting-state bold-fMRI data. Anatomical scans were defaced using pydeface software.
 
-MRI data were collected for 120 patients with PTN, organized in folders labeled "sub-***", and 55 healthy volunteers in folders labeled "sub-**".  Furthermore, follow-up MRI data are available for 64 patients, stored in folders labeled "sub-***fu". A second follow-up (via telephone interview) is available for 93 patients.
+MRI data were collected for 120 patients with PTN, organized in folders labeled "sub-**", and 55 healthy volunteers in folders labeled "sub-**".  Furthermore, follow-up MRI data are available for 64 patients, stored in folders labeled "sub-***fu". A second follow-up (via telephone interview) is available for 93 patients.
 
 Clinical, demographic, and treatment-related information for each participant is provided in the participants.tsv file. A brief description of the columns is as follows:
 
