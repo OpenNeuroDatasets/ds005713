@@ -1,0 +1,15 @@
+2.0.3 2026-10-13
+  -  - Removed sub-111fu. No follow-up session was acquired, and the folder was a duplicate of sub-111.   - Replaced sub-080fu T1w and T2w with the correct 11 January 2024 follow-up. The previous files were copies of the baseline session.   - Removed the diffusion data for sub-16. The intended 64-direction series contains 32 volumes (one b=0 volume and 31 directions), and no complete repeat is available.   - Removed sub-023 (this participant also has migraine). - Updated the participants.xlsx file.
+2.0.2 2025-10-07
+  - Fixed some errors with tsv files
+2.0.1 2025-10-07
+  - In the new version of the dataset, the sample of patients and healthy volunteers was increased, and new variables were added
+2.0.0 2025-10-07
+  - In the new version of the dataset, the sample of patients and healthy volunteers was increased, and new variables were added.
+1.0.1 2024-12-12
+  - - README file was changed
+  - - participant.tsv and participant.json files were added
+  - - mriqc_data folder was added
+  - - .bidsignore file was added
+1.0.0 2024-12-12
+  - no changes
